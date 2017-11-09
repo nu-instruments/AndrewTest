@@ -11,6 +11,7 @@ namespace MyTestProject
         static void Main(string[] args)
         {
             // This is my first change to the file
+            // A second change
         }
     }
 }
