@@ -16,6 +16,8 @@
             // ********** Change made on Release 1.0 branch ******
             
             // Another change in "master"
+
+            // Change on release branch, testing merge to master
         }
     }
 }
